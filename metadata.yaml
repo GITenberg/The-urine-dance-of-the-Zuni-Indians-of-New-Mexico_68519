@@ -1,0 +1,43 @@
+_repo: The-urine-dance-of-the-Zuni-Indians-of-New-Mexico_68519
+_version: 0.0.1
+contributor:
+  other_contributor:
+    agent_name: Sheridan, Philip Henry
+    alias: Sheridan, P. H. (Philip Henry)
+    birthdate: 1831
+    deathdate: 1888
+    gutenberg_agent_id: '988'
+    url: http://www.gutenberg.org/2009/agents/988
+    wikipedia: https://en.wikipedia.org/wiki/Philip_Sheridan
+creator:
+  author:
+    agent_name: Bourke, John Gregory
+    alias: Bourke, John G. (John Gregory)
+    birthdate: 1846
+    deathdate: 1896
+    gutenberg_agent_id: '41777'
+    url: http://www.gutenberg.org/2009/agents/41777
+    wikipedia: https://en.wikipedia.org/wiki/John_Gregory_Bourke
+description: ''
+gutenberg_issued: '2022-07-14'
+identifiers:
+  gutenberg: '68519'
+language: en
+pgterms:marc904: https://archive.org/details/urinedanceofzuni00bourrich/page/n3/mode/2up
+pgterms:marc905: 20220108223837bourke
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Charlene Taylor, Donald Cummings and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :Privately Printed,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Urine dance'
+- !lcsh 'Zuni Indians'
+- !lcc 'E011'
+- GITenberg
+title: The urine dance of the Zuni Indians of New Mexico
+url: http://www.gutenberg.org/ebooks/68519
