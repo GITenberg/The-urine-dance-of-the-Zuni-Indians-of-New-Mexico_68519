@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '988'
     url: http://www.gutenberg.org/2009/agents/988
     wikipedia: https://en.wikipedia.org/wiki/Philip_Sheridan
+covers:
+- cover_type: archival
+  image_path: 68519-h/images/cover.jpg
 creator:
   author:
     agent_name: Bourke, John Gregory
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41777
     wikipedia: https://en.wikipedia.org/wiki/John_Gregory_Bourke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68519#The-urine-dance-of-the-Zuni-Indians-of-New-Mexico
 gutenberg_issued: '2022-07-14'
 identifiers:
   gutenberg: '68519'
